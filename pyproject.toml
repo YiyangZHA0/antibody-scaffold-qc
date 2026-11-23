@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scaffold"
+version = "0.7.0"
+description = "Selectable antibody numbering and CDR definitions for BoltzGen sequence and structural scaffolds"
+requires-python = ">=3.11"
+dependencies = ["anarcii==2.0.8", "biopython>=1.84", "gemmi>=0.7", "PyYAML>=6", "requests>=2.32"]
+
+[project.scripts]
+scaffold = "scaffold.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+scaffold = ["static/terminal_references.json", "static/germline_endpoints.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["integration: real public structures and live antibody numbering"]

@@ -1,0 +1,191 @@
+[
+  {
+    "pdb_id": "1X9Q",
+    "description": "4m5.3 anti-fluorescein scFv; VL-linker-VH",
+    "file": "tests/data/1x9q.pdb",
+    "url": "https://files.rcsb.org/download/1X9Q.pdb",
+    "sha256": "08f1df4e446f12fd14346a3ef9b6034ad4e0693d71c9399e335c19f9bf419c3c",
+    "bytes": 386127,
+    "retrieved_utc": "2026-09-09T17:57:39.468442+00:00"
+  },
+  {
+    "pdb_id": "1X9Q",
+    "description": "4m5.3 anti-fluorescein scFv; VL-linker-VH",
+    "file": "tests/data/1x9q.cif",
+    "url": "https://files.rcsb.org/download/1X9Q.cif",
+    "sha256": "3d4df8976361f854df85525b1814490fbab7d174eab037b2bae2723429043af7",
+    "bytes": 456419,
+    "retrieved_utc": "2026-09-09T17:57:39.436187+00:00"
+  },
+  {
+    "pdb_id": "1X9Q",
+    "description": "4m5.3 anti-fluorescein scFv; VL-linker-VH",
+    "file": "tests/data/1x9q.fasta",
+    "url": "https://www.rcsb.org/fasta/entry/1X9Q/display",
+    "sha256": "5996e433203919952b020c770e252ca03a186bcaa23b2aa7169a1eb9b0c634a1",
+    "bytes": 359,
+    "retrieved_utc": "2026-09-09T17:57:39.321561+00:00"
+  },
+  {
+    "pdb_id": "5Y9K",
+    "description": "belimumab Fab",
+    "file": "tests/data/5y9k.pdb",
+    "url": "https://files.rcsb.org/download/5Y9K.pdb",
+    "sha256": "a51614c63165c5251e7c1995889ec3374de45c34d585f139bdb33263c2af9153",
+    "bytes": 586359,
+    "retrieved_utc": "2026-09-09T17:37:06.064235+00:00"
+  },
+  {
+    "pdb_id": "5Y9K",
+    "description": "belimumab Fab",
+    "file": "tests/data/5y9k.cif",
+    "url": "https://files.rcsb.org/download/5Y9K.cif",
+    "sha256": "27ddf7e9328345cee32473811e8593a23b7ab547d7fa4aee7ec0df4c2ab92064",
+    "bytes": 692046,
+    "retrieved_utc": "2026-09-09T17:37:06.095497+00:00"
+  },
+  {
+    "pdb_id": "5Y9K",
+    "description": "belimumab Fab",
+    "file": "tests/data/5y9k.fasta",
+    "url": "https://www.rcsb.org/fasta/entry/5Y9K/display",
+    "sha256": "6a3514624338368a6a6367b1d958a74d138d36fb4f80a72403b4cec62ff885e3",
+    "bytes": 583,
+    "retrieved_utc": "2026-09-09T17:37:05.576835+00:00"
+  },
+  {
+    "pdb_id": "6CR1",
+    "description": "adalimumab EFab; test VH/VL only",
+    "file": "tests/data/6cr1.pdb",
+    "url": "https://files.rcsb.org/download/6CR1.pdb",
+    "sha256": "c065f5d027827d7a54dd59067a529178fa4634c8038ad70906aca52dd67136d4",
+    "bytes": 562545,
+    "retrieved_utc": "2026-09-09T19:11:29.955152+00:00"
+  },
+  {
+    "pdb_id": "6CR1",
+    "description": "adalimumab EFab; test VH/VL only",
+    "file": "tests/data/6cr1.cif",
+    "url": "https://files.rcsb.org/download/6CR1.cif",
+    "sha256": "5c2ce3decc324d7c0ebf557835f6c355c6d4490fb463ada9a3a2c5f8ce9a13b4",
+    "bytes": 677550,
+    "retrieved_utc": "2026-09-09T19:11:29.900190+00:00"
+  },
+  {
+    "pdb_id": "6CR1",
+    "description": "adalimumab EFab; test VH/VL only",
+    "file": "tests/data/6cr1.fasta",
+    "url": "https://www.rcsb.org/fasta/entry/6CR1/display",
+    "sha256": "1dc62817e20b402acb16d1cf968205341d7dcd1bd48155e556aa3729f2b4a257",
+    "bytes": 620,
+    "retrieved_utc": "2026-09-09T19:11:29.926871+00:00"
+  },
+  {
+    "pdb_id": "7EOW",
+    "description": "caplacizumab VHH in vWF complex",
+    "file": "tests/data/7eow.pdb",
+    "url": "https://files.rcsb.org/download/7EOW.pdb",
+    "sha256": "2aa82abd58151de1a425a5d19f019da21fe0b1f98cf92e7efd13036ab8aff80e",
+    "bytes": 514593,
+    "retrieved_utc": "2026-09-09T19:11:29.436366+00:00"
+  },
+  {
+    "pdb_id": "7EOW",
+    "description": "caplacizumab VHH in vWF complex",
+    "file": "tests/data/7eow.cif",
+    "url": "https://files.rcsb.org/download/7EOW.cif",
+    "sha256": "c642dd357cd364463d9cc78203ee31dc67b3ee0dad6efc3043b94576897dcbea",
+    "bytes": 647713,
+    "retrieved_utc": "2026-09-09T19:11:29.565432+00:00"
+  },
+  {
+    "pdb_id": "7EOW",
+    "description": "caplacizumab VHH in vWF complex",
+    "file": "tests/data/7eow.fasta",
+    "url": "https://www.rcsb.org/fasta/entry/7EOW/display",
+    "sha256": "16ceec543c59bab652f273171967f56926d8efd4087f36d0231a48031b3f286c",
+    "bytes": 478,
+    "retrieved_utc": "2026-09-09T19:11:29.461509+00:00"
+  },
+  {
+    "pdb_id": "7XL0",
+    "description": "vobarilizumab VHH",
+    "file": "tests/data/7xl0.pdb",
+    "url": "https://files.rcsb.org/download/7XL0.pdb",
+    "sha256": "cec24515471494a737f6d88dd9f9fc3d5c700bea25a342f72c394f30b809a14c",
+    "bytes": 369036,
+    "retrieved_utc": "2026-09-09T19:11:30.404209+00:00"
+  },
+  {
+    "pdb_id": "7XL0",
+    "description": "vobarilizumab VHH",
+    "file": "tests/data/7xl0.cif",
+    "url": "https://files.rcsb.org/download/7XL0.cif",
+    "sha256": "0042fd3761f1aee883db62f72f86b8a5fca75198d9e2f265be197b7d44320c34",
+    "bytes": 451294,
+    "retrieved_utc": "2026-09-09T19:11:30.432442+00:00"
+  },
+  {
+    "pdb_id": "7XL0",
+    "description": "vobarilizumab VHH",
+    "file": "tests/data/7xl0.fasta",
+    "url": "https://www.rcsb.org/fasta/entry/7XL0/display",
+    "sha256": "651430d46ff91d534e2e9c30cc329054a0fb64c4476c76f18dd5fa6e0770a05f",
+    "bytes": 192,
+    "retrieved_utc": "2026-09-09T19:11:30.313604+00:00"
+  },
+  {
+    "pdb_id": "5J13",
+    "description": "tezepelumab Fab",
+    "file": "tests/data/5j13.pdb",
+    "url": "https://files.rcsb.org/download/5J13.pdb",
+    "sha256": "6220b5991392ce364c46ff87a3f422f7d18d204f69a5678f9abe4c59ae33540d",
+    "bytes": 700569,
+    "retrieved_utc": "2026-09-09T19:16:24.918293+00:00"
+  },
+  {
+    "pdb_id": "5J13",
+    "description": "tezepelumab Fab",
+    "file": "tests/data/5j13.cif",
+    "url": "https://files.rcsb.org/download/5J13.cif",
+    "sha256": "438291af87290feaf94ed02c76401eeb14dea352cec680f268bcb9161f587827",
+    "bytes": 846893,
+    "retrieved_utc": "2026-09-09T19:16:24.840920+00:00"
+  },
+  {
+    "pdb_id": "5J13",
+    "description": "tezepelumab Fab",
+    "file": "tests/data/5j13.fasta",
+    "url": "https://www.rcsb.org/fasta/entry/5J13/display",
+    "sha256": "45d4071b39d33580b147ab36844c4af484e2b2882db56affd237356ac8947923",
+    "bytes": 867,
+    "retrieved_utc": "2026-09-09T19:16:24.682760+00:00"
+  },
+  {
+    "pdb_id": "6WGB",
+    "description": "dupilumab Fab",
+    "file": "tests/data/6wgb.pdb",
+    "url": "https://files.rcsb.org/download/6WGB.pdb",
+    "sha256": "7563f58b55f8cfea1489285ea81465d3c99eba8224b831829b52fdcddda5cf6c",
+    "bytes": 560601,
+    "retrieved_utc": "2026-09-09T19:11:32.301917+00:00"
+  },
+  {
+    "pdb_id": "6WGB",
+    "description": "dupilumab Fab",
+    "file": "tests/data/6wgb.cif",
+    "url": "https://files.rcsb.org/download/6WGB.cif",
+    "sha256": "66256965b80494f4827c8cb86ae39b96e57f31f865ecaa9367e4f68587cd6c00",
+    "bytes": 694743,
+    "retrieved_utc": "2026-09-09T19:11:32.301917+00:00"
+  },
+  {
+    "pdb_id": "6WGB",
+    "description": "dupilumab Fab",
+    "file": "tests/data/6wgb.fasta",
+    "url": "https://www.rcsb.org/fasta/entry/6WGB/display",
+    "sha256": "9cf98bdd7b767da5edb2c02c982f8a5c71131a25955527aa210c4182c9973e78",
+    "bytes": 587,
+    "retrieved_utc": "2026-09-09T19:11:32.181497+00:00"
+  }
+]

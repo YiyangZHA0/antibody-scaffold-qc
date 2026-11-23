@@ -1,0 +1,5 @@
+* text=auto eol=lf
+# Preserve downloaded data, recorded hashes, and generated artifacts byte-for-byte.
+tests/data/** -text -whitespace
+outputs/** -text -whitespace
+reports/** -text -whitespace

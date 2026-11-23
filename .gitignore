@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.cache/
+.venv/
+build/
+dist/
+*.part
+library/
+reports/web_*.log
+reports/*.pid
+
+# Generated conversion results are separate from the maintained code.
+outputs/

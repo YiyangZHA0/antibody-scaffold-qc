@@ -1,0 +1,301 @@
+{
+  "version": "2026-11-22",
+  "entries": [
+    {
+      "name": "VHH3 H",
+      "role": "H",
+      "sequence": "QVQLQESGGGLVQPGGSLRLSCAASGRTFSDHSGYTYTIGWFRQAPGKEREFVARIYWSSGNTYYADSVKGRFAISRDIAKNTVDLTMNNLEPEDTAVYYCAARDGIPTSRSVESYNYWGQGTQVTVSS",
+      "pdb": "5M2M",
+      "source": "https://files.rcsb.org/download/5M2M.cif",
+      "source_sha256": "5ea4f585b25cc158d0fbfa10ba8503f77d6b86c93e1ac73f1c15eb7b9dc3ff67",
+      "declared_segments": [
+        {
+          "entity": "2",
+          "chains": "D,E,F,H,J,N",
+          "span": [
+            1,
+            129
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cAbBCII10 H",
+      "role": "H",
+      "sequence": "QVQLVESGGGSVQAGGSLRLSCTASGGSEYSYSTFSLGWFRQAPGQEREAVAAIASMGGLTYYADSVKGRFTISRDNAKNTVTLQMNNLKPEDTAIYYCAAVRGYFMRLPSSHNFRYWGQGTQVTVSS",
+      "pdb": "3DWT",
+      "source": "https://files.rcsb.org/download/3DWT.cif",
+      "source_sha256": "502a9b173b9e502e1e086b4740a9b5ff0b70c33d51e4c2bbb7d28850c55a5665",
+      "declared_segments": [
+        {
+          "entity": "1",
+          "chains": "A,B,C,D,E,F,G,H",
+          "span": [
+            1,
+            128
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cAb-Lys3 H",
+      "role": "H",
+      "sequence": "DVQLQASGGGSVQAGGSLRLSCAASGYTIGPYCMGWFRQAPGKEREGVAAINMGGGITYYADSVKGRFTISQDNAKNTVYLLMNSLEPEDTAIYYCAADSTIYASYYECGHGLSTGGYGYDSWGQGTQVTVSS",
+      "pdb": "1MEL",
+      "source": "https://files.rcsb.org/download/1MEL.cif",
+      "source_sha256": "b82586a12aef8e1c5c53399904cf5c70885e92c6884dce9b9620d128bd9d1de0",
+      "declared_segments": [
+        {
+          "entity": "1",
+          "chains": "A,B",
+          "span": [
+            1,
+            133
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pembrolizumab H",
+      "role": "H",
+      "sequence": "QVQLVQSGVEVKKPGASVKVSCKASGYTFTNYYMYWVRQAPGQGLEWMGGINPSNGGTNFNEKFKNRVTLTTDSSTTTAYMELKSLQFDDTAVYYCARRDYRFDMGFDYWGQGTTVTVSS",
+      "pdb": "5GGS",
+      "source": "https://files.rcsb.org/download/5GGS.cif",
+      "source_sha256": "9fa3febc15076e0893bbe9c4750794a301158ac8291daa30a0de85da094c642f",
+      "declared_segments": [
+        {
+          "entity": "1",
+          "chains": "A,C",
+          "span": [
+            1,
+            120
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pembrolizumab L",
+      "role": "L",
+      "sequence": "EIVLTQSPATLSLSPGERATLSCRASKGVSTSGYSYLHWYQQKPGQAPRLLIYLASYLESGVPARFSGSGSGTDFTLTISSLEPEDFAVYYCQHSRDLPLTFGGGTKVEIK",
+      "pdb": "5GGS",
+      "source": "https://files.rcsb.org/download/5GGS.cif",
+      "source_sha256": "9fa3febc15076e0893bbe9c4750794a301158ac8291daa30a0de85da094c642f",
+      "declared_segments": [
+        {
+          "entity": "2",
+          "chains": "B,D",
+          "span": [
+            1,
+            111
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nivolumab H",
+      "role": "H",
+      "sequence": "QVQLVESGGGVVQPGRSLRLDCKASGITFSNSGMHWVRQAPGKGLEWVAVIWYDGSKRYYADSVKGRFTISRDNSKNTLFLQMNSLRAEDTAVYYCATNDDYWGQGTLVTVSS",
+      "pdb": "5GGR",
+      "source": "https://files.rcsb.org/download/5GGR.cif",
+      "source_sha256": "0a4b89840f1574f4376151f7138e62d3c4bdc73778a649089849c27abddb1690",
+      "declared_segments": [
+        {
+          "entity": "1",
+          "chains": "A,H",
+          "span": [
+            1,
+            113
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nivolumab L",
+      "role": "L",
+      "sequence": "EIVLTQSPATLSLSPGERATLSCRASQSVSSYLAWYQQKPGQAPRLLIYDASNRATGIPARFSGSGSGTDFTLTISSLEPEDFAVYYCQQSSNWPRTFGQGTKVEIK",
+      "pdb": "5GGR",
+      "source": "https://files.rcsb.org/download/5GGR.cif",
+      "source_sha256": "0a4b89840f1574f4376151f7138e62d3c4bdc73778a649089849c27abddb1690",
+      "declared_segments": [
+        {
+          "entity": "2",
+          "chains": "B,L",
+          "span": [
+            1,
+            107
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Belimumab H",
+      "role": "H",
+      "sequence": "QVQLQQSGAEVKKPGSSVRVSCKASGGTFNNNAINWVRQAPGQGLEWMGGIIPMFGTAKYSQNFQGRVAITADESTGTASMELSSLRSEDTAVYYCARSRDLLLFPHHALSPWGRGTMVTVSS",
+      "pdb": "5Y9K",
+      "source": "https://files.rcsb.org/download/5Y9K.cif",
+      "source_sha256": "27ddf7e9328345cee32473811e8593a23b7ab547d7fa4aee7ec0df4c2ab92064",
+      "declared_segments": [
+        {
+          "entity": "2",
+          "chains": "H",
+          "span": [
+            1,
+            123
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Belimumab L",
+      "role": "L",
+      "sequence": "SSELTQDPAVSVALGQTVRVTCQGDSLRSYYASWYQQKPGQAPVLVIYGKNNRPSGIPDRFSGSSSGNTASLTITGAQAEDEADYYCSSRDSSGNHWVFGGGTELTVL",
+      "pdb": "5Y9K",
+      "source": "https://files.rcsb.org/download/5Y9K.cif",
+      "source_sha256": "27ddf7e9328345cee32473811e8593a23b7ab547d7fa4aee7ec0df4c2ab92064",
+      "declared_segments": [
+        {
+          "entity": "1",
+          "chains": "L",
+          "span": [
+            1,
+            108
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nirsevimab H",
+      "role": "H",
+      "sequence": "QVQLVQSGAEVKKPGSSVMVSCQASGGLLEDYIINWVRQAPGQGPEWMGGIIPVLGTVHYGPKFQGRVTITADESTDTAYMELSSLRSEDTAMYYCATETALVVSETYLPHYFDNWGQGTLVTVSS",
+      "pdb": "5UDC",
+      "source": "https://files.rcsb.org/download/5UDC.cif",
+      "source_sha256": "93e3c6db56352ae6e0909ecd863bdb01924cc8393891648634772efff35a185b",
+      "declared_segments": [
+        {
+          "entity": "1",
+          "chains": "H,B,E",
+          "span": [
+            1,
+            126
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nirsevimab L",
+      "role": "L",
+      "sequence": "DIQMTQSPSSLSAAVGDRVTITCQASQDIVNYLNWYQQKPGKAPKLLIYVASNLETGVPSRFSGSGSGTDFSLTISSLQPEDVATYYCQQYDNLPLTFGGGTKVEIK",
+      "pdb": "5UDC",
+      "source": "https://files.rcsb.org/download/5UDC.cif",
+      "source_sha256": "93e3c6db56352ae6e0909ecd863bdb01924cc8393891648634772efff35a185b",
+      "declared_segments": [
+        {
+          "entity": "2",
+          "chains": "L,C,G",
+          "span": [
+            1,
+            107
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sarilumab H",
+      "role": "H",
+      "sequence": "EVQLVESGGGLVQPGRSLRLSCAASRFTFDDYAMHWVRQAPGKGLEWVSGISWNSGRIGYADSVKGRFTISRDNAENSLFLQMNGLRAEDTALYYCAKGRDSFDIWGQGTMVTVSS",
+      "pdb": "8IOW",
+      "source": "https://files.rcsb.org/download/8IOW.cif",
+      "source_sha256": "08e05982389bd78648b953a628e284614a758d58db98357f4e421bf737b6211f",
+      "declared_segments": [
+        {
+          "entity": "3",
+          "chains": "H",
+          "span": [
+            1,
+            116
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sarilumab L",
+      "role": "L",
+      "sequence": "DIQMTQSPSSVSASVGDRVTITCRASQGISSWLAWYQQKPGKAPKLLIYGASSLESGVPSRFSGSGSGTDFTLTISSLQPEDFASYYCQQANSFPYTFGQGTKLEIK",
+      "pdb": "8IOW",
+      "source": "https://files.rcsb.org/download/8IOW.cif",
+      "source_sha256": "08e05982389bd78648b953a628e284614a758d58db98357f4e421bf737b6211f",
+      "declared_segments": [
+        {
+          "entity": "2",
+          "chains": "L",
+          "span": [
+            1,
+            107
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tralokinumab H",
+      "role": "H",
+      "sequence": "QVQLVQSGAEVKKPGASVKVSCKASGYTFTNYGLSWVRQAPGQGLEWMGWISANNGDTNYGQEFQGRVTMTTDTSTSTAYMELRSLRSDDTAVYYCARDSSSSWARWFFDLWGRGTLVTVSS",
+      "pdb": "5L6Y",
+      "source": "https://files.rcsb.org/download/5L6Y.cif",
+      "source_sha256": "e0cf3758e917ffa2ee26216eb5313fbb3acf45430cf6408adde9415e2cc9ffb2",
+      "declared_segments": [
+        {
+          "entity": "2",
+          "chains": "H",
+          "span": [
+            1,
+            122
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tralokinumab L",
+      "role": "L",
+      "sequence": "SYVLTQPPSVSVAPGKTARITCGGNIIGSKLVHWYQQKPGQAPVLVIYDDGDRPSGIPERFSGSNSGNTATLTISRVEAGDEADYYCQVWDTGSDPVVFGGGTKLTVL",
+      "pdb": "5L6Y",
+      "source": "https://files.rcsb.org/download/5L6Y.cif",
+      "source_sha256": "e0cf3758e917ffa2ee26216eb5313fbb3acf45430cf6408adde9415e2cc9ffb2",
+      "declared_segments": [
+        {
+          "entity": "3",
+          "chains": "L",
+          "span": [
+            1,
+            108
+          ]
+        }
+      ]
+    },
+    {
+      "name": "h-NbBcII10_FGLA H",
+      "role": "H",
+      "sequence": "QVQLVESGGGLVQPGGSLRLSCAASGGSEYSYSTFSLGWFRQAPGQGLEAVAAIASMGGLTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAAVRGYFMRLPSSHNFRYWGQGTLVTVSS",
+      "pdb": "3EAK",
+      "source": "https://files.rcsb.org/download/3EAK.cif",
+      "source_sha256": "ad2a0708a1b40ffbfc4969f30835386408e6469783f34156d21ef3d4f97e01a1",
+      "declared_segments": [
+        {
+          "entity": "1",
+          "chains": "A,B",
+          "span": [
+            1,
+            128
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RFantibody h-NbBCII10 127 aa H",
+      "role": "H",
+      "sequence": "QVQLVESGGGLVQPGGSLRLSCAASGGSEYSYSTFSLGWFRQAPGQGLEAVAAIASMGGLTYYADSVKGRFTISRDNSKNTLYLQMNSLRAEDTAVYYCAAVRGYFMRLPSSHNFRYWGQGTLVTVS",
+      "source": "https://raw.githubusercontent.com/RosettaCommons/RFantibody/8fe311415754e0276d1a39c87c57e69c88927a2d/scripts/examples/example_inputs/h-NbBCII10.pdb",
+      "source_sha256": "ab444bb19d8391b1b75decd0026e0d9f09affff5a702a6180edc990bbda3095e",
+      "observed_chain": "H"
+    }
+  ]
+}
